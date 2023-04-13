@@ -1,0 +1,9 @@
+#timer {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+  }
+h1 {
+    align-content: center;
+  }

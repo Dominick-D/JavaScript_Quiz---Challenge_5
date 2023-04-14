@@ -9,7 +9,7 @@ This JavaScript Quiz has 5 questions and gives you a minute to answer. Becareful
 Click red Start Quiz button to start the questions/timer. at the end you get a rank on the leaderboard saved to your in your local storage saved with your initials.
 
 ![alt text](assets/images/screenshot.png)
-
+https://dominick-d.github.io/JavaScript_Quiz---Challenge_5/
 
 ## License
 

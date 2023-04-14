@@ -4,6 +4,19 @@
     right: 10px;
     font-size: 20px;
   }
-h1 {
-    align-content: center;
-  }
+body {
+    background-color: #cacaca;
+    font-size: 1.1rem;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.5;
+}
+
+#start-button {
+    background-color: red;
+    border: none;
+}
+
+#quiz p.question {
+    font-weight: bold;
+}
